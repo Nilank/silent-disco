@@ -59,7 +59,7 @@ const steps = [
     description:
       "Send us a message with more information about the event you're planning.",
     image: {
-      src: "/images/Gallery_23.webp",
+      src: "/silent-disco/images/Gallery_23.webp",
       alt: "A crowd at a concert with their hands up.",
       hint: "concert crowd",
     },
@@ -70,7 +70,7 @@ const steps = [
     description:
       "We'll provide a cost estimate based on your event's specific requirements.",
     image: {
-      src: "/images/Gallery_24.webp",
+      src: "/silent-disco/images/Gallery_24.webp",
       alt: "A DJ's mixing desk with colorful lights.",
       hint: "dj console",
     },
@@ -81,7 +81,7 @@ const steps = [
     description:
       "Our team will arrive prior to the start of your event and set up the equipment for you.",
     image: {
-      src: "/images/Gallery_25.jpg",
+      src: "/silent-disco/images/Gallery_25.jpg",
       alt: "A music festival stage with lights.",
       hint: "festival stage",
     },
