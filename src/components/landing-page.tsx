@@ -158,7 +158,7 @@ const WhatIsSilentDiscoSection = () => {
     };
   }, []);
 
-  const animatedGif = "/images/Silent_Disco_Giphy.gif";
+  const animatedGif = "/silent-disco/images/Silent_Disco_Giphy.gif";
 
   return (
     <section className="py-12 sm:py-16 md:py-20 lg:py-24 bg-card/20">
